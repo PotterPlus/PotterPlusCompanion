@@ -1,0 +1,8 @@
+first_installation: true
+
+verbose: true
+
+progress_menu_spell: "progressmenu"
+
+features:
+  progress_menu_click: true

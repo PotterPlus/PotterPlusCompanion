@@ -1,0 +1,57 @@
+plugins {
+    id 'java'
+}
+
+apply plugin: 'idea'
+
+group 'io.github.grisstyl.potterplus.companion'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+
+    maven {
+        url 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
+    }
+
+    maven {
+        url 'https://oss.sonatype.org/content/repositories/snapshots'
+    }
+
+    maven {
+        url 'http://maven.elmakers.com/repository/'
+    }
+}
+
+dependencies {
+    // Server API
+    compile(
+            group: 'org.spigotmc',
+            name: 'spigot-api',
+            version: '1.16.4-R0.1-SNAPSHOT'
+    )
+
+    // Eliminates need for plugin.yml
+    compile(
+            group: 'org.spigotmc',
+            name: 'plugin-annotations',
+            version: '1.2.2-SNAPSHOT'
+    )
+
+    // Magic API
+    compile(
+            group: 'com.elmakers.mine.bukkit',
+            name: 'MagicAPI',
+            version: '7.10'
+    )
+
+    // To simplify code
+    compile(
+            group: 'org.projectlombok',
+            name: 'lombok',
+            version: '1.18.12'
+    )
+
+    annotationProcessor 'org.spigotmc:plugin-annotations:1.2.2-SNAPSHOT'
+    annotationProcessor 'org.projectlombok:lombok:1.18.12'
+}

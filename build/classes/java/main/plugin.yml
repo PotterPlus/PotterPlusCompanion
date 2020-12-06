@@ -1,0 +1,14 @@
+# Auto-generated plugin.yml, generated at 2020/12/06 11:58:18 by org.bukkit.plugin.java.annotation.PluginAnnotationProcessor
+
+main: io.github.grisstyl.potterplus.companion.PotterPlusPlugin
+name: PotterPlusCompanion
+version: 1.0.0
+description: A companion plugin for use with the PotterPlus configuration for the
+  Magic plugin.
+author: T0xicTyler
+depend:
+- Magic
+softdepend:
+- MagicScan
+commands: {}
+permissions: {}

@@ -1,0 +1,52 @@
+io/github/grisstyl/potterplus/api/misc/FriendlyBooleans.java
+ io.github.grisstyl.potterplus.api.misc.FriendlyBooleans
+io/github/grisstyl/potterplus/api/command/CommandBase.java
+ io.github.grisstyl.potterplus.api.command.CommandBase
+ io.github.grisstyl.potterplus.api.command.CommandBase$SubCommand
+io/github/grisstyl/potterplus/companion/PotterPlusController.java
+ io.github.grisstyl.potterplus.companion.PotterPlusController
+io/github/grisstyl/potterplus/companion/listener/InteractListener.java
+ io.github.grisstyl.potterplus.companion.listener.InteractListener
+io/github/grisstyl/potterplus/api/file/PluginYamlFile.java
+ io.github.grisstyl.potterplus.api.file.PluginYamlFile
+io/github/grisstyl/potterplus/api/misc/StringUtilities.java
+ io.github.grisstyl.potterplus.api.misc.StringUtilities
+io/github/grisstyl/potterplus/api/gui/PaginatedGUI.java
+ io.github.grisstyl.potterplus.api.gui.PaginatedGUI
+ io.github.grisstyl.potterplus.api.gui.PaginatedGUI$1
+ io.github.grisstyl.potterplus.api.gui.PaginatedGUI$PaginatedGUISettings
+io/github/grisstyl/potterplus/api/file/YamlFile.java
+ io.github.grisstyl.potterplus.api.file.YamlFile
+io/github/grisstyl/potterplus/api/gui/button/GUIButton.java
+ io.github.grisstyl.potterplus.api.gui.button.GUIButton
+io/github/grisstyl/potterplus/companion/command/PotterPlusCommand.java
+ io.github.grisstyl.potterplus.companion.command.PotterPlusCommand
+io/github/grisstyl/potterplus/api/gui/button/AutoGUIButton.java
+ io.github.grisstyl.potterplus.api.gui.button.AutoGUIButton
+io/github/grisstyl/potterplus/api/gui/button/ButtonListener.java
+ io.github.grisstyl.potterplus.api.gui.button.ButtonListener
+io/github/grisstyl/potterplus/api/command/CommandContext.java
+ io.github.grisstyl.potterplus.api.command.CommandContext
+io/github/grisstyl/potterplus/companion/file/ConfigFile.java
+ io.github.grisstyl.potterplus.companion.file.ConfigFile
+io/github/grisstyl/potterplus/api/gui/GUI.java
+ io.github.grisstyl.potterplus.api.gui.GUI
+ io.github.grisstyl.potterplus.api.gui.GUI$1
+ io.github.grisstyl.potterplus.api.gui.GUI$GUIListener
+io/github/grisstyl/potterplus/api/misc/ItemStackBuilder.java
+ io.github.grisstyl.potterplus.api.misc.ItemStackBuilder
+ io.github.grisstyl.potterplus.api.misc.ItemStackBuilder$Enchant
+ io.github.grisstyl.potterplus.api.misc.ItemStackBuilder$Enchant$EnchantBuilder
+io/github/grisstyl/potterplus/companion/integration/MagicScanIntegration.java
+ io.github.grisstyl.potterplus.companion.integration.MagicScanIntegration
+io/github/grisstyl/potterplus/api/gui/ConfirmPrompt.java
+ io.github.grisstyl.potterplus.api.gui.ConfirmPrompt
+io/github/grisstyl/potterplus/companion/PotterPlusPlugin.java
+ io.github.grisstyl.potterplus.companion.PotterPlusPlugin
+io/github/grisstyl/potterplus/api/misc/BooleanFormat.java
+ io.github.grisstyl.potterplus.api.misc.BooleanFormat
+io/github/grisstyl/potterplus/companion/integration/MagicIntegration.java
+ io.github.grisstyl.potterplus.companion.integration.MagicIntegration
+io/github/grisstyl/potterplus/api/misc/PluginLogger.java
+ io.github.grisstyl.potterplus.api.misc.PluginLogger
+ io.github.grisstyl.potterplus.api.misc.PluginLogger$Instance
